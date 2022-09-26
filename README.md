@@ -1,8 +1,7 @@
 # Django Todo App
 
-Project is live (here)[https://web-production-4575.up.railway.app/]
 
-A project that I made as practice that was similar to one of the companies own websites. 
+A sample project to get more comfortable with Django. 
 
 Python, Django, HTML, CSS, SQLite3
 
