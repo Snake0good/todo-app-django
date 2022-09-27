@@ -1,4 +1,5 @@
 # Django Todo App
+![ezgif-3-d60c1b8c12](https://user-images.githubusercontent.com/57625094/192429058-2cbcd477-3c1d-4adc-9613-550cd027ff0e.gif)
 
 
 A sample project to get more comfortable with Django. 
